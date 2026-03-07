@@ -1,1 +1,2 @@
 # Hypertension-Prediction
+Hypertension Prediction is an advanced machine learning project designed to predict and classify various stages of hypertension (high blood pressure) in patients based on clinical parameters and lifestyle factors. The system utilizes supervised learning algorithms to analyze patient health data and provide accurate predictions along with personalized medical recommendations.
